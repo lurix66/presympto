@@ -65,4 +65,5 @@ remotizzate, chissà, magari anche in modo gratuito
 - schiere di diretti interessati presumibilmente disponibili a donare qualche € per sostenere l'iniziativa ()
 - immagino anche professionisti metodologi ospedalieri o di aziende farmaceutiche (statistici ecc.) ...
 
-Noi dovremo "solo" **mettere in moto l'ingranaggio** nel modo giusto (OpenSource / Free software) e gestire l'evoluzione del progetto *à la Linus Torvalds*
+Noi dovremo "solo" **mettere in moto l'ingranaggio** nel modo giusto (OpenSource / Free software) e gestire l'evoluzione 
+del progetto *à la Linus Torvalds*
