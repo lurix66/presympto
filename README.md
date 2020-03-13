@@ -5,7 +5,8 @@ database application to collect data about pre-symptomatic COVID-19 cases
 Ciò che caratterizza le gestione attuale (13-mar-2020) dei dati dell'epidemia di Covid-19 è la totale assenza di dati 
 dei pazienti cosiddetti *asintomatici*.
 
-Quindi nessuno sa quanti siano i casi già infettati ma non conteggiati nelle cifre ufficiali.
+Quindi nessuno sa quanti siano i casi già infettati ma non conteggiati nelle cifre ufficiali (13/3 Galli a Radio 
+Capital)
 
 Tuttavia è lecito attendersi che a fronte di circa 15000 casi (al momento in cui scrivo) noti, questi cosiddetti 
 *asintomatici* siano molti di più, magari 10 o 100 volte di più.
