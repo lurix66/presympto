@@ -1,5 +1,5 @@
 # presympto
-database application to collect data about pre-synthomatic COVID-19 cases
+database application to collect data about pre-symptomatic COVID-19 cases
 
 ## Premesse (background)
 Ciò che caratterizza le gestione attuale (13-mar-2020) dei dati dell'epidemia di Covid-19 è la totale assenza di dati 
@@ -58,8 +58,10 @@ Ci sono diverse difficoltà da superare:
 Ci sono anche risorse presumibilmente disponibili
 - schiere di informatici che sono a casa
 - schiere di avvocati che sono a casa
-- schiere di studenti di medicina, o di medici non infetivologi, non internisti (es ortopedici) non direttamente coinvolti
-- probabilmente aziende o fornitori di SAAS (Google, AWS) che potrebbero mettere a disposizioine risorse remotizzata anche in modo gratuito
+- schiere di studenti di medici non infettivologi, non internisti (es. ortopedici) e comunque non direttamente 
+coinvolti nell'attuale emergenza, anzi magari col reparto chiuso, e finanche studenti di medicina 
+- probabilmente aziende o fornitori di SAAS (Google, AWS) che potrebbero mettere a disposizione risorse informatiche 
+remotizzate, chissà, magari anche in modo gratuito
 - schiere di diretti interessati presumibilmente disponibili a donare qualche € per sostenere l'iniziativa ()
 - immagino anche professionisti metodologi ospedalieri o di aziende farmaceutiche (statistici ecc.) ...
 
