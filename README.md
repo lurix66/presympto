@@ -38,7 +38,7 @@ Ci sono un buon numero di buone ragioni per fare questo:
 - comprendere come si evolvono i sintomi prima dell'aggravarsi del quadro
    - avremmo a disposizione grndi quantità di dati su cui applicare modelli AI supervisionati e non 
 - evidenziare comportamenti efficaci nel trattamento domiciliare
-- nei casi di evoluzione benigna e guarigione, si saprebbe chi è ridiventato abile al lavoro
+- nei casi di evoluzione benigna e guarigione, si saprebbe chi, ormai immunizzato, può ritornare al lavoro, aiutare nelle strutture ospedaliere o nell'asssistenza domiciliare
 - unire gli sforzi a livello internazionale, a beneficio dei paesi che hanno qualche settimana di ritardo rispetto a noi
 - mettere a disposizione di questi pre-pazienti un canale di comunicazione dedicato e laddove necessario personalizzato 
 per conoscere situazioni e disporre indicazioni
